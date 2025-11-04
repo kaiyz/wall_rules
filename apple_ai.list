@@ -1,0 +1,8 @@
+HOST-SUFFIX,apple-relay.apple.com,PROXY
+HOST-SUFFIX,apple-replay.fastly-edge.com,PROXY
+HOST-SUFFIX,apple-relay.cloudflare.com,PROXY
+HOST-SUFFIX,gateway.icloud.com,PROXY
+HOST-SUFFIX,guzzoni.apple.com,PROXY
+HOST-SUFFIX,cp4.cloudflare.com,PROXY
+HOST-SUFFIX,gspe1-ssl.ls.apple.com,PROXY
+HOST-SUFFIX,apps.mzstatic.com,PROXY
